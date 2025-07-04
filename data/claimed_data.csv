@@ -1,0 +1,11 @@
+text,label
+"Claimant suffered minor vehicle damage; repair cost estimated under $2000.",simple
+"Claim involves multi-vehicle collision with injuries and police report attached.",complex
+"Lost luggage claim with receipt attached; amount less than $500.",simple
+"Medical claim with multiple procedures and extensive documentation.",complex
+"Claim for windshield replacement after hailstorm; no injuries reported.",simple
+"Property damage claim involving fire and structural loss; requires detailed assessment.",complex
+"Simple claim for stolen bicycle with police report.",simple
+"Complex claim involving fraud investigation and multiple claimants.",complex
+"Claim for water damage in basement; minor repairs needed.",simple
+"Large-scale claim for commercial property damage following flooding.",complex

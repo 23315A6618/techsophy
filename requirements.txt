@@ -1,0 +1,7 @@
+pytesseract
+Pillow
+scikit-learn
+pandas
+joblib
+spacy
+pymupdf
